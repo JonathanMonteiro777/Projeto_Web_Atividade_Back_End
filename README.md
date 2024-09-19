@@ -20,6 +20,3 @@ C#
 
 Esta atividade foi criada para consolidar os conhecimentos adquiridos no curso de Desenvolvimento Back-end do SENAI. Ela utiliza ASP.NET Core para criar um servidor web e interagir com um banco de dados SQL Server.
 
-**Observação:**
-
-O código deste repositório é um ponto de partida para você praticar os conhecimentos aprendidos no curso. Sinta-se à vontade para modificar e expandir o código com novas funcionalidades.
